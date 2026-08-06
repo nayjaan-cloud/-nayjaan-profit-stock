@@ -1,0 +1,6 @@
+{
+  "name": "Stock Profit Management System",
+  "description": "ระบบบริหารฐานข้อมูลกำไรสุทธิรายไตรมาสของหุ้น (Stock Profit Management System) พร้อม Dashboard, Analytics, StockMaster, Setting, Bulk Paste และ Audit Log",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
